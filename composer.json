@@ -1,12 +1,12 @@
 {
-    "name": "nticaric/fiskalizacija",
+    "name": "ddragas/fiskalizacija",
     "description": "PHP API za fiskalizaciju računa",
-    "homepage": "http://github.com/nticaric/fiskalizacija",
+    "homepage": "http://github.com/ddragas/fiskalizacija",
     "license": "MIT",
     "type": "library",
     "authors": [{
-        "name": "Nenad Ticaric",
-        "email": "nticaric@gmail.com"
+        "name": "Dejan Dragaš",
+        "email": "ddragas1976@gmail.com"
     }],
     "require": {
         "php": ">=7.3.0",
